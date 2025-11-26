@@ -334,10 +334,4 @@ Commands for cloning, virtual environment, and installing packages.
   <img src="https://img.icons8.com/fluency/96/source-code.png" width="80"/>
 </p>
 
----
 
-If you want, I can add:
-✅ More icons
-✅ More sections
-✅ Badges (GitHub styled)
-✅ A project banner
